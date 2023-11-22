@@ -8,6 +8,6 @@ let yourAddress = prompt ("ჩაწერეთ თქვენი საცხ
 
 const presentYear = 2023;
 
-let userAge = currentYear - birthYear ;
+let userAge = presentYear - birthYear ;
 
 alert("გამარჯობა," + firstName + " " + lastName + " " + "! მიხარია, რომ უკვე" + userAge + "ხარ და" + yourAddress + "-ში ცხოვრობ.");
