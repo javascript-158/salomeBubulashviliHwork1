@@ -10,4 +10,4 @@ const presentYear = 2023;
 
 let userAge = currentYear - birthYear ;
 
-alert ("გამარჯობა, " + firstName + " " + lastName + " " + "! მიხარია, რომ უკვე" + userAge + "ხარ და" + yourAddress + "-ში ცხოვრობ" );
+alert ("გამარჯობა, " + firstName + " " + lastName + " " + "! მიხარია, რომ უკვე" + userAge + "ხარ და" + yourAddress + "-ში ცხოვრობ." );
